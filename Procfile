@@ -1,1 +1,1 @@
-worker: python crypto_anomali.py
+worker: python main.py
